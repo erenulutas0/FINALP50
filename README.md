@@ -10,7 +10,6 @@ A Python project to visualize and compare different sorting algorithms using dat
   *Merge Sort
 - Implementation of common sorting algorithms
 - Comprehensive unit tests
-- Clean, documented code
 
 # Algorithms Implemented
 | Algorithm      | Average Time Complexity | Space Complexity |
